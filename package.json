@@ -1,0 +1,10 @@
+{
+  "name": "demo-auth-svc",
+  "version": "1.0.0",
+  "description": "Demo auth service",
+  "dependencies": {
+    "express": "4.18.2",
+    "jsonwebtoken": "9.0.0",
+    "bcrypt": "5.1.0"
+  }
+}
